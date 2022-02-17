@@ -3,7 +3,7 @@
 - My stack is:
    - Linux (RHEL Distros)
    - Containers (Docker)
-   - Zabbbix
+   - Zabbix
    - TomCat/JBoss
    - Python / Shell Scripting (bash)
    - Website Pentesting (SSL,SQL Injection, XSS ...)
