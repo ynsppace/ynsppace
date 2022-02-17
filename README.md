@@ -5,7 +5,7 @@
    - Containers (Docker)
    - Zabbbix
    - TomCat/JBoss
-   - Python / Bash 
+   - Python / Shell Scripting (bash)
    - Website Pentesting (SSL,SQL Injection, XSS ...)
     
  - I am always learning something new, and this moment I am learning about AWS cloud.
